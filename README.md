@@ -1,1 +1,1 @@
-# IMC
+Programa para calcular indice de massa corporal.
